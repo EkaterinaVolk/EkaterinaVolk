@@ -1,7 +1,7 @@
 ### Hi! I`m Ekaterina✨
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e47t7qzuqfbhpp9xyf6tyqqz9lb55w6kaspjy3fj798&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+  <img src="http://instagram/eve_agram" width="200"/>
 </div>
 
 <div id="badges">
