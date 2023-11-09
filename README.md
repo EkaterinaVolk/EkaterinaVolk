@@ -1,7 +1,7 @@
-### Hi! I`m Ekaterina✨
+### Hi! I'm Ekaterina✨
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJqcDhqOTBvdDBraTRtd3ZteXl0YzV1d2lobnFmOGRqMjRrMnIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xsg0K6bgiwERSo/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJqcDhqOTBvdDBraTRtd3ZteXl0YzV1d2lobnFmOGRqMjRrMnIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xsg0K6bgiwERSo/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
