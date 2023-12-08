@@ -11,12 +11,12 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 I am a Front End Developer 💻 from Saint-Petersburg, Russia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
